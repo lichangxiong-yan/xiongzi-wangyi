@@ -1,10 +1,11 @@
 <template>
-  <div id="app">
-    <router-view />
+  <div class="page-ai">
+    <h1>人工智能</h1>
   </div>
 </template>
+
 <script>
 export default {
-  name: 'App'
+  name: 'Ai'
 }
 </script>
